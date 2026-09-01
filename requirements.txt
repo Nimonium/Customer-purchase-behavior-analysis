@@ -1,0 +1,6 @@
+# Requirements for Real-Time Analytics Dashboard & Data Stream Simulator
+# AI & Statistics Course Project: Customer Purchase Behaviour Analysis
+streamlit
+streamlit-autorefresh
+pandas
+plotly

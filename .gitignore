@@ -1,0 +1,19 @@
+# SQLite Database files generated during simulation
+stream.db
+stream.db-wal
+stream.db-shm
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.pytest_cache/
+
+# OS / IDE metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
