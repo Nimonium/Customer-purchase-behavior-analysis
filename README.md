@@ -110,7 +110,7 @@ streamlit run app.py
 * **Institution**: Avantika University
 * **Authors**:
   * Saptashya Pahari (`PU02424EUG10023`)
-  * Manya Chourisya (`PU02424EUG10024`)
+  * Manya Chourisya (`PU02424EUG10012`)
 
 ---
 
